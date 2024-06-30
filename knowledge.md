@@ -46,3 +46,8 @@ Tối ưu lên production load image nhanh thì next khuyền khích sharp. Ch�
           },
         ],
       },
+
+
+Lưu ý chạy phí server cần phải có "user server'
+Nhưng8 thằng nào page, layout dùng dc async await,
+còn component thì ko dùng dc async await
